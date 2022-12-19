@@ -13,5 +13,3 @@ int _strlen(char *s)
 		count++;
 	return (count);
 }
-Footer
-© 2022 Git
